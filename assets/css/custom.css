@@ -1,0 +1,146 @@
+/**************************
+	 Filename: custom.css
+	 Author: Herbert Franco
+	 Date: 12/04/2021
+
+	Index
+	
+	0. Reset
+	1. General
+	2. Header
+	3. Cities
+	4. Table of content
+	5. Stats
+	6. Footer
+**************************/
+
+/**************************
+	0. Reset
+**************************/
+
+
+
+/**************************
+	1. General
+**************************/
+
+body {
+background-color: #1E1C1C;
+margin: 0px;
+font-family: roboto;
+color: #FFF;
+}
+
+.outer {
+display: flex;
+height: 100vh;
+}
+
+.inner {
+	margin: auto;
+	text-align: center;
+}
+
+.opaco {
+	opacity: 50%;
+}
+
+.sub {
+	padding-top: 20px;
+	opacity: 30%;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 28px;
+}
+
+.title{
+font-size: 80px;
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 94px;
+}
+/**************************
+	2. Header
+**************************/
+header nav {
+
+}
+
+header #hero-title {
+
+}
+
+
+header #hero-subtitle {
+
+}
+
+
+header #call-to- {
+
+}
+
+/**************************
+	3. Cities
+**************************/
+
+#cities {
+
+}
+
+#cities-title {
+
+}
+
+/**************************
+	4. Table of contents
+**************************/
+
+#table-of-contents {
+
+}
+
+#table-of-contents-title{
+
+}
+
+#table-of-contents-subititle{
+
+}
+
+.table-of-contents-content-title{
+
+}
+
+.table-of-contents-content-title-items{
+
+}
+
+/**************************
+	5. Stats
+**************************/
+
+#stats {
+
+}
+
+#stats-content{
+
+}
+
+.stats-content-title {
+
+}
+
+.stats-content-subtitle{
+
+}
+/**************************
+	6. Footer
+**************************/
+
+#footer {
+
+}
